@@ -12,4 +12,5 @@ depues de diciembre me dedicare en mis tiempos libres al desarrollo de juegos y 
 y mi primer abatar sera mi silver chiquito para ponerlo en los torneos 
 hola como estas XD 
 relleno hola goten 
- noche y dia siempre es lo mismo nada nunca cambia a menos que nosotros tengamos la voluntad de mejora espero algun dia mejorar 
+ noche y dia siempre es lo mismo nada nunca cambia a menos que nosotros tengamos la voluntad de mejora espero algun dia mejorar
+que bueno es avanzar DIOS mio  
