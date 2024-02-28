@@ -18,3 +18,6 @@ he avanzado en mi camino con git y github pero aun me falta aprender algunas cos
 lo bueno es que no he roto nada...... aun :v 
 que bueno es no romper las cosas por primera vez en este tiempo de los cursos 
 probando el comando arbol que acabo de hacer 
+aqui empieza el trabajo de los cambios en la historia de jake 
+no se que poner aqui la verdad XD solo vine a modificar y ver todo esto en mi github personal 
+sooy pixelartista :D (en progreso)
