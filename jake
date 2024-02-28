@@ -16,3 +16,4 @@ relleno hola goten
 que bueno es avanzar DIOS mio  
 he avanzado en mi camino con git y github pero aun me falta aprender algunas cosas 
 lo bueno es que no he roto nada...... aun :v 
+que bueno es no romper las cosas por primera vez en este tiempo de los cursos 
