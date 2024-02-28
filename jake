@@ -14,3 +14,5 @@ hola como estas XD
 relleno hola goten 
  noche y dia siempre es lo mismo nada nunca cambia a menos que nosotros tengamos la voluntad de mejora espero algun dia mejorar
 que bueno es avanzar DIOS mio  
+he avanzado en mi camino con git y github pero aun me falta aprender algunas cosas 
+lo bueno es que no he roto nada...... aun :v 
