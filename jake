@@ -21,4 +21,5 @@ probando el comando arbol que acabo de hacer
 aqui empieza el trabajo de los cambios en la historia de jake 
 no se que poner aqui la verdad XD solo vine a modificar y ver todo esto en mi github personal 
 sooy pixelartista :D (en progreso) 
-este editor de texto es como medio raro por que ni idea de como guardar los cambios XD
+este editor de texto es como medio raro por que ni idea de como guardar los cambios XD 
+que bueno es estar avanzando en github, voy por ti pensamiento logico >:v
