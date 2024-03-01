@@ -20,4 +20,5 @@ que bueno es no romper las cosas por primera vez en este tiempo de los cursos
 probando el comando arbol que acabo de hacer 
 aqui empieza el trabajo de los cambios en la historia de jake 
 no se que poner aqui la verdad XD solo vine a modificar y ver todo esto en mi github personal 
-sooy pixelartista :D (en progreso)
+sooy pixelartista :D (en progreso) 
+este editor de texto es como medio raro por que ni idea de como guardar los cambios XD
