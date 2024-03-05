@@ -26,4 +26,4 @@ que bueno es estar avanzando en github, voy por ti pensamiento logico >:v
 prueba para resolver problemas
 aqui comienza pruebas 
 mi nombre es juan luis lopez perez, soy estudiante de platzi y me gusta hacer pruebas en todo mis aprendisajez para asi probarme a mi mismo 
-esta prueba sera para refrescar mi mente sobre hacer pull request
+esta prueba sera para refrescar mi mente sobre hacer pull request y espero no fallar en eso 
