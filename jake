@@ -23,4 +23,7 @@ no se que poner aqui la verdad XD solo vine a modificar y ver todo esto en mi gi
 sooy pixelartista :D (en progreso) 
 este editor de texto es como medio raro por que ni idea de como guardar los cambios XD 
 que bueno es estar avanzando en github, voy por ti pensamiento logico >:v 
-prueba para resolver problemas 
+prueba para resolver problemas
+aqui comienza pruebas 
+mi nombre es juan luis lopez perez, soy estudiante de platzi y me gusta hacer pruebas en todo mis aprendisajez para asi probarme a mi mismo 
+esta prueba sera para refrescar mi mente sobre hacer pull request
