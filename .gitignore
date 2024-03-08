@@ -1,2 +1,4 @@
 # se omitira las configuraciones ubicadas en la carpeta .vscode/
 .vscode/
+# tambien se ignoraran los archivos .jpg para la optimizacion del repositrio 
+.jpg 
