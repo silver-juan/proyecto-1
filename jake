@@ -28,3 +28,4 @@ aqui comienza pruebas
 mi nombre es juan luis lopez perez, soy estudiante de platzi y me gusta hacer pruebas en todo mis aprendisajez para asi probarme a mi mismo 
 esta prueba sera para refrescar mi mente sobre hacer pull request y espero no fallar en eso 
 prueba de la prueba 
+-1 lista de pruebas: primer candidato para cherry-pick 
