@@ -31,4 +31,6 @@ prueba de la prueba
 -1 lista de pruebas: primer candidato para cherry-pick 
 -2 candiadto dos 
 3- tercer candidato
-4- cuarto candidaro aunque creo que terminare aqui este archivo 
+4- cuarto candidaro aunque creo que terminare aqui este archivo
+aqui termina la historia de este proyecto, ya no tengo que practicar mas con este archivo ( y esta demaciado revuelto XD)
+
